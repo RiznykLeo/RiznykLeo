@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, i'm Leo
 
 <!--
 **RiznykLeo/RiznykLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
