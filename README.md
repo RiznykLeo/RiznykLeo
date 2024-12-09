@@ -1,2 +1,2 @@
-# Hello, i'm Leo
+# Hi, i'm Leo
 ### I am a Fullstack dev
