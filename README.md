@@ -1,2 +1,2 @@
 # Hi, i'm Leo
-### I am a Fullstack dev
+### I am a Frontend-first Fullstack dev
